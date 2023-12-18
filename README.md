@@ -35,3 +35,11 @@
 <a href="https://komarev.com/ghpvc/?username=ahmedragab17717&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=ahmedragab17717&style=for-the-badge">
 </a>
+<br>
+<br>
+<hr>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
