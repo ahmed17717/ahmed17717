@@ -11,7 +11,7 @@
 
 - 🏢 I'm a Machine Learning Student From Egypt.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, PyTorch, and TensorFlow, or anything related to Data Science & AI.
+- 💬 Experience with Python, PyTorch, TensorFlow, and Data Science & AI.
 
 
 ### Connect with Me :
