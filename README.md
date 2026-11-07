@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B80F9&center=true&vCenter=true&width=650&lines=Building+practical+AI+solutions;Developing+LLM-powered+applications;Exploring+Generative+AI+and+NLP)](https://git.io/typing-svg)
 
+
 <br>
 
 <p align="center">
@@ -113,5 +114,5 @@ Faculty of Computers and Information — Suez University
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:6C3BAA&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C3BAA&height=100&section=footer" width="100%" />
 </p>
