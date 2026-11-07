@@ -74,32 +74,6 @@ I have worked directly with clients to translate operational requirements into u
 | **AI/ML Freelancer** | Mostaql · Remote | Jan 2026 – Present |
 | **Machine Learning & Deep Learning Intern** | Creativa Innovation Hubs | Jul 2025 – Sep 2025 |
 
-<br>
-
-## Selected Outcomes
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h2>10K+</h2>
-<sub>Records in ML datasets</sub>
-</td>
-<td align="center" width="33%">
-<h2>~8%</h2>
-<sub>F1-score improvement</sub>
-</td>
-<td align="center" width="33%">
-<h2>88%+</h2>
-<sub>Validation accuracy</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<sub>Results from machine learning and deep learning internship work; not production deployment metrics.</sub>
 
 <br>
 
@@ -124,20 +98,6 @@ Faculty of Computers and Information — Suez University
 
 <br>
 
-## Certifications
-
-- AI & Machine Learning — Sprints × Microsoft
-- Machine Learning — Udemy
-- McKinsey Forward Program — McKinsey & Company
-
-<br>
-
-## Languages
-
-- Arabic — Native
-- English — Professional Working Proficiency
-
-<br>
 
 <p align="center">
   <b>Open to AI Engineering opportunities and technical collaboration.</b>
