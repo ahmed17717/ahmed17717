@@ -1,8 +1,9 @@
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:302b63&height=200&section=header&text=Ahmed%20Ragab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20NLP&descSize=16&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2196F3&height=200&section=header&text=Ahmed%20Ragab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20NLP&descSize=16&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B80F9&center=true&vCenter=true&width=650&lines=Building+practical+AI+solutions;Developing+LLM-powered+applications;Exploring+Generative+AI+and+NLP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Building+practical+AI+solutions;Developing+LLM-powered+applications;Exploring+Generative+AI+and+NLP)](https://git.io/typing-svg)
 
 
 <br>
@@ -53,8 +54,8 @@ I have worked directly with clients to translate operational requirements into u
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
-![RAGAS](https://img.shields.io/badge/RAGAS-6C63FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2196F3?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-2196F3?style=flat-square)
 
 **Backend & Infrastructure**
 
@@ -114,5 +115,5 @@ Faculty of Computers and Information — Suez University
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C3BAA&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2196F3&height=100&section=footer" width="100%" />
 </p>
