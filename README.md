@@ -72,32 +72,6 @@ I have worked directly with clients to translate operational requirements into u
 
 <br>
 
-## Selected Outcomes
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h2>10K+</h2>
-<sub>Records in ML datasets</sub>
-</td>
-<td align="center" width="33%">
-<h2>~8%</h2>
-<sub>F1-score improvement</sub>
-</td>
-<td align="center" width="33%">
-<h2>88%+</h2>
-<sub>Validation accuracy</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<sub>Results from machine learning and deep learning internship work; not production deployment metrics.</sub>
-
-<br>
 
 ## Education
 
